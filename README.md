@@ -35,8 +35,6 @@
 
 ## 🚀 Getting Started
 
-> ℹ️ This repository contains the **frontend (design/UI)** only. The backend lives in a separate location and is set up independently.
-
 Follow these instructions to set up and run this frontend project locally.
 
 ### **Prerequisites**
@@ -70,6 +68,8 @@ npx expo start
 - **Physical Device**: Scan the QR code displayed in the terminal using the **Expo Go** app.
 - **Android Emulator**: Press `a` in the terminal.
 - **iOS Simulator**: Press `i` in the terminal.
+
+**Backend Project** - (https://github.com/shenurarasheen/Velochat-backend.git)
 
 ---
 
