@@ -81,9 +81,13 @@ npx expo start
   then update the paths below to match your filenames.
 -->
 
-| Profile | Chat Screen | Settings / Verification |
-| :---: | :---: | :---: |
-| ![Profile Screen](./screenshots/profile.jpg) | ![Chat Screen](./screenshots/chat-screen.jpg) | ![Auth Screen](./screenshots/auth-screen.jpg) |
+| Splash Screen | Signup Screen | Verification | Verification | Success Screen |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Splash Screen](./images/v-splash.png) | ![Signup Screen](./images/v-signup.png) | ![Verification Screen](./images/v-verification.png) | ![OTP Screen](./images/v-verifycode.png) | ![Success Screen](./images/v-success.png) |
+
+| Home Screen | Chat Screen | Profile Screen | All Contacts Screen | Add Contact Screen |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Home Screen](./images/v-home.png) | ![Chat Screen](./images/v-chat.png) | ![Profile Screen](./images/v-profile.png) | ![Contact Screen](./images/v-allcontact.png) | ![Add Contact Screen](./images/v-addcontact.png) |
 
 <!-- Add more rows/screenshots below as needed, following the same pattern -->
 
